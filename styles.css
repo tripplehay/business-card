@@ -6,6 +6,10 @@ body {
     to your card.
     */
     font-family: Verdana, Geneva, Tahoma, sans-serif;
+	border-radius: 64px;
+background: #e0e0e0;
+box-shadow:  24px 24px 48px #5c5c5c,
+             -24px -24px 48px #ffffff;
 }
 
 .avatar {
@@ -100,7 +104,10 @@ h1 {
     background-color: #8FD694;
 }
 
-
+border-radius: 64px;
+background: #e0e0e0;
+box-shadow:  24px 24px 48px #5c5c5c,
+             -24px -24px 48px #ffffff;
 /*
 Stretch goals:
 Find other ways you can personalize 
