@@ -21,23 +21,8 @@ body {
     text-align: center;
     background: #0A2463;
     color: #FFFAFF;
-    border-bottom: 6px solid #d8cefe;
-        
-    /*
-    Challenge:
-    Find a color palette you like on Coolors.co
-    and use it in your business card.
-     */
-}
-
-.border-blue {
-    border: 1px dotted blue;
-}
-:hover {
-    background-color: #8FD694;
-}
-
-@import url('https://fonts.googleapis.com/css?family=Corben:700');
+    border-bottom: 6px solid #d8cefe;\
+    @import url('https://fonts.googleapis.com/css?family=Corben:700');
 
 h1 {
 	font-family: 'Corben', cursive;
@@ -98,7 +83,24 @@ h1 {
 		transform: translateY(0);
 	}
 	
+}	
+	
+        
+    /*
+    Challenge:
+    Find a color palette you like on Coolors.co
+    and use it in your business card.
+     */
 }
+
+.border-blue {
+    border: 1px dotted blue;
+}
+:hover {
+    background-color: #8FD694;
+}
+
+
 /*
 Stretch goals:
 Find other ways you can personalize 
