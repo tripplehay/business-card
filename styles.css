@@ -1,7 +1,7 @@
 body {
     margin: 20px;
     background-image: url("https://media.giphy.com/media/l1Et7Qw1XjvunS0Io/giphy.gif");
-    background-repeat: none;
+    background-size: cover;
     /*#0F1020
     Challenge:
     Find a web safe font you like, and add it 
