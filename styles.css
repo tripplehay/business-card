@@ -29,8 +29,8 @@ box-shadow:  24px 24px 48px #5c5c5c,
     @import url('https://fonts.googleapis.com/css?family=Corben:700');
 	border-radius: 64px;
 background: #5825d0;
-box-shadow:  27px 27px 55px #240f55,
-             -27px -27px 55px #8c3bff;
+box-shadow:  28px 28px 55px #240f55,
+             -28px -28px 55px #8c3bff;
 h1 {
 	font-family: 'Corben', cursive;
 	font-size: 6rem;
