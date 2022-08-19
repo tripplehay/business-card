@@ -19,8 +19,8 @@ body {
     display: flex;
     justify-content: space-around;
     text-align: center;
-    background: #ddebf8;
-    color: #0A2463;
+    background: #0A2463;
+    color: #FFFAFF;
     border-bottom: 6px solid #d8cefe;
         
     /*
@@ -33,7 +33,9 @@ body {
 .border-blue {
     border: 1px dotted blue;
 }
-
+:hover {
+    background-color: #8FD694;
+}
 /*
 Stretch goals:
 Find other ways you can personalize 
